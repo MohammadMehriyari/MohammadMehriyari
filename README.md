@@ -56,7 +56,7 @@ Building bridges between code, infrastructure, and performance.
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [**team-portfolio**](https://github.com/MohammadMehriyari/team-portfolio) | Portfolio platform for developer teams | Next.js, React, TypeScript, Tailwind | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
+| [**team-portfolio**](https://github.com/MohammadMehriyari/team-portfolio) | Portfolio platform for developer teams | Next.js, React, TypeScript, Tailwind | ![Active](https://img.shields.io/badge/Sta[...]
 | [**publisher-web**](https://github.com/MohammadMehriyari/publisher-web) | Modern publishing platform | Next.js, SSG, API Routes | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
 | _Private projects not listed_ | — | — | — |
 
@@ -64,7 +64,7 @@ Building bridges between code, infrastructure, and performance.
 
 | Project | Description | Tech Stack | Highlights |
 |---------|-------------|------------|------------|
-| [**poet-web**](https://github.com/MohammadMehriyari/poet-web) | Creative platform for poetry sharing | React, Node.js, MongoDB | Clean UI/UX, Responsive |
+| [**poet-web**](http://194.36.170.130/) | Creative platform for poetry sharing | React, Node.js, MongoDB | Clean UI/UX, Responsive |
 | [**Java-Servlet-Project**](https://github.com/MohammadMehriyari/Java-Servlet-Project) | Java web app demonstrating backend fundamentals | Java Servlets, JSP, MySQL | MVC, Session Management |
 | [**Java-StoreApp**](https://github.com/MohammadMehriyari/Java-StoreApp) | E-commerce app with admin panel | Java, Spring, Hibernate | OOP, Database Design |
 | _Private projects not listed_ | — | — | — |
