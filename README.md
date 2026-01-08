@@ -18,24 +18,7 @@
 
 </div>
 
----
 
-## 💼 Featured Projects Showcase
-
-<div align="center">
-
-### 🌟 Highlighted Projects
-
-| Project | Description | Technologies |
-|---------|-------------|---------------|
-| 📱 **Project One** | Innovative solution crafted with precision | React, Node.js, MongoDB |
-| 🔧 **Project Two** | Scalable architecture for modern needs | Python, FastAPI, PostgreSQL |
-| 🚀 **Project Three** | Next-generation features and performance | TypeScript, Vue.js, Firebase |
-| 💡 **Project Four** | Cutting-edge implementation | Go, Docker, Kubernetes |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -94,20 +77,7 @@
 
 <div align="center">
 
-### **Proficiency Matrix**
 
-| Area | Level | Experience |
-|------|-------|------------|
-| **Full-Stack Web Development** | ⭐⭐⭐⭐⭐ | 5+ Years |
-| **Frontend Architecture** | ⭐⭐⭐⭐⭐ | 5+ Years |
-| **Backend Systems** | ⭐⭐⭐⭐⭐ | 5+ Years |
-| **Database Design** | ⭐⭐⭐⭐☆ | 4+ Years |
-| **Cloud Infrastructure** | ⭐⭐⭐⭐☆ | 4+ Years |
-| **Microservices Architecture** | ⭐⭐⭐⭐☆ | 4+ Years |
-| **DevOps & CI/CD** | ⭐⭐⭐⭐☆ | 4+ Years |
-| **Mobile Development** | ⭐⭐⭐⭐☆ | 3+ Years |
-| **AI/ML Integration** | ⭐⭐⭐☆☆ | 2+ Years |
-| **System Design** | ⭐⭐⭐⭐⭐ | 5+ Years |
 
 ### **Key Specializations**
 
@@ -139,13 +109,6 @@
 - 💬 Sharing knowledge through **Technical Writing**
 - 🌟 Mentoring aspiring developers
 
-### 🎖️ Achievements
-
-- 🏆 Contributed to 50+ repositories
-- 🌍 Projects used by 1000+ developers
-- 📖 Published 20+ technical articles
-- 🤝 Active community contributor
-- 🎓 Continuous learner & problem solver
 
 </div>
 
@@ -155,11 +118,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohammadMehriyari)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohammadMehriyari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohhammadmer@gmail.com)
+
 
 </div>
 
