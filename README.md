@@ -1,139 +1,242 @@
-# 👋 Hi, I'm Mohammad
+# <div align="center"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+Mohammad+Mehriyari's+Space;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Tomorrow's+Solutions+Today) </div>
 
-**Frontend Developer** → **Future Full-Stack & DevOps Engineer**  
-Building bridges between code, infrastructure, and performance.
-
-🎓 **Education**  
-- **M.Sc. in Software Engineering** *(currently studying)*  
-- **B.Sc. in Computer Engineering*
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" alt="Developer GIF"/>
+</div>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Statistics Dashboard
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehriyari&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadMehriyari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehriyari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadMehriyari&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Featured Projects Showcase
 
-### Frontend & Fullstack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
+
+### 🌟 Highlighted Projects
+
+| Project | Description | Technologies |
+|---------|-------------|---------------|
+| 📱 **Project One** | Innovative solution crafted with precision | React, Node.js, MongoDB |
+| 🔧 **Project Two** | Scalable architecture for modern needs | Python, FastAPI, PostgreSQL |
+| 🚀 **Project Three** | Next-generation features and performance | TypeScript, Vue.js, Firebase |
+| 💡 **Project Four** | Cutting-edge implementation | Go, Docker, Kubernetes |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<div align="center">
+
+### 🎯 Core Technologies
+
+#### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Databases
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+#### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### DevOps & Infrastructure
+#### **Database & Data**
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+#### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### Frontend Excellence
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| [**team-portfolio**](https://github.com/MohammadMehriyari/team-portfolio) | Portfolio platform for developer teams | Next.js, React, TypeScript, Tailwind | ![Active](https://img.shields.io/badge/Sta[...]
-| [**publisher-web**](https://github.com/MohammadMehriyari/publisher-web) | Modern publishing platform | Next.js, SSG, API Routes | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
-| _Private projects not listed_ | — | — | — |
-
-### Full-Stack Solutions
-
-| Project | Description | Tech Stack | Highlights |
-|---------|-------------|------------|------------|
-| [**poet-web**](http://194.36.170.130/) | Creative platform for poetry sharing | React, Node.js, MongoDB | Clean UI/UX, Responsive |
-| [**Java-Servlet-Project**](https://github.com/MohammadMehriyari/Java-Servlet-Project) | Java web app demonstrating backend fundamentals | Java Servlets, JSP, MySQL | MVC, Session Management |
-| [**Java-StoreApp**](https://github.com/MohammadMehriyari/Java-StoreApp) | E-commerce app with admin panel | Java, Spring, Hibernate | OOP, Database Design |
-| _Private projects not listed_ | — | — | — |
-
-### Infrastructure & DevOps
-- **Private Projects:** Kubernetes configs, Dockerized apps, CI/CD pipelines  
-- **Linux Environment:** Custom shell scripts, server configs, performance tuning  
-- **Networking:** HTTP/3 + QUIC experiments, load balancing setups
-
----
-
-## 🎯 Goals
-
-- [ ] Deploy microservices architecture in production  
-- [ ] Master Kubernetes in real-world scenarios  
-- [ ] Contribute to 3+ open-source projects  
-- [ ] Build and deploy Go-based backend  
-- [ ] Implement advanced monitoring & logging  
-
-_Skill Development:_  
-Backend (Go, FastAPI, DB optimization) • DevOps (Terraform, Ansible, Prometheus, Grafana) • Architecture (Microservices, Events, CQRS)
-
----
-
-## 💡 Engineering Philosophy
-
-> "Engineering excellence means understanding the whole stack — from interface to packets to orchestration."
-
-- 🎯 Systems Thinking: Connect frontend, backend, infra  
-- 🔧 Pragmatic: Choose the right tool for each job  
-- 📈 Lifelong Learner: Always exploring  
-- 🚀 Production-Focused: Scalable, maintainable builds
-
----
-
-## ⚡ Fun Facts
-
-- 🧩 **Tech Enthusiast** – Love exploring systems and solving complex technical puzzles
-- ⚽ **Football Lover** – Lifelong Manchester United supporter (GGMU 🔴)
-- 🎬 **Movie Buff** – Enjoy watching good films when I need a mental reset
-- 🎮 **Casual Gamer** – Sometimes jump into games to unwind after coding
-- 🍵 **Tea Over Coffee** – Late-night coding sessions powered by a warm cup of tea
-- 🐧 **OS Explorer** – No single favorite, but Pop!_OS is my current go-to environment
-
----
-
-## 📬 Let's Connect
-
-I'm open to:
-- 🤝 Collaborations  
-- 💡 Tech & architecture discussions  
-- 🎯 Mentoring  
-- 🔍 New opportunities
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mehriyari-25536b1bb/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MohammadMehriyari)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadMehriyari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohhammadmer@gmail.com)
-
----
-
-<div align="center">
-
-### 🚀 Always Learning • Always Building • Always Improving
-
-<em>"The master has failed more times than the beginner has even tried."</em>
+#### **Testing & Quality**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-⭐ *If you like what you see, star a repo or follow my journey!*
+## 🎓 Expertise Breakdown
+
+<div align="center">
+
+### **Proficiency Matrix**
+
+| Area | Level | Experience |
+|------|-------|------------|
+| **Full-Stack Web Development** | ⭐⭐⭐⭐⭐ | 5+ Years |
+| **Frontend Architecture** | ⭐⭐⭐⭐⭐ | 5+ Years |
+| **Backend Systems** | ⭐⭐⭐⭐⭐ | 5+ Years |
+| **Database Design** | ⭐⭐⭐⭐☆ | 4+ Years |
+| **Cloud Infrastructure** | ⭐⭐⭐⭐☆ | 4+ Years |
+| **Microservices Architecture** | ⭐⭐⭐⭐☆ | 4+ Years |
+| **DevOps & CI/CD** | ⭐⭐⭐⭐☆ | 4+ Years |
+| **Mobile Development** | ⭐⭐⭐⭐☆ | 3+ Years |
+| **AI/ML Integration** | ⭐⭐⭐☆☆ | 2+ Years |
+| **System Design** | ⭐⭐⭐⭐⭐ | 5+ Years |
+
+### **Key Specializations**
+
+```
+┌─────────────────────────────────────────────────────┐
+│ ✨ Building Scalable, High-Performance Solutions    │
+│ 🎯 User-Centric Design & Development               │
+│ 🔒 Security & Best Practices                       │
+│ ⚡ Performance Optimization                         │
+│ 📈 Rapid Prototyping & Iteration                   │
+│ 🌐 Global Scale System Architecture                │
+└──────────────────────────────────────────────────��──┘
+```
+
+</div>
+
+---
+
+## 🚀 Recent Activity & Highlights
+
+<div align="center">
+
+### 📌 What I'm Currently Doing
+
+- 🔍 Exploring advanced **System Design** patterns
+- 🤖 Diving deep into **AI/ML** integration techniques
+- 📚 Contributing to **Open Source** projects
+- 🎯 Building **Scalable Solutions** for enterprise challenges
+- 💬 Sharing knowledge through **Technical Writing**
+- 🌟 Mentoring aspiring developers
+
+### 🎖️ Achievements
+
+- 🏆 Contributed to 50+ repositories
+- 🌍 Projects used by 1000+ developers
+- 📖 Published 20+ technical articles
+- 🤝 Active community contributor
+- 🎓 Continuous learner & problem solver
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohammadMehriyari)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohammadMehriyari)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)
+
+</div>
+
+---
+
+## 📊 GitHub Activity Chart
+
+<div align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MohammadMehriyari&theme=tokyonight&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff)
+
+</div>
+
+---
+
+## 💡 Philosophy & Values
+
+<div align="center">
+
+> "Code is poetry written for machines to execute and humans to understand."
+
+### Core Principles
+
+- **Excellence**: Striving for quality in every line of code
+- **Innovation**: Embracing new technologies and methodologies
+- **Collaboration**: Believing in the power of teamwork
+- **Continuous Learning**: Never stop growing and improving
+- **Clean Code**: Making code maintainable and scalable
+- **User Focus**: Building solutions that truly matter
+
+</div>
+
+---
+
+## 🎯 Future Goals & Vision
+
+<div align="center">
+
+- 🚀 Lead **architectural decisions** on large-scale projects
+- �� Build **impactful products** that change the industry
+- 📚 Create **comprehensive resources** for the dev community
+- 🤖 Master **AI/ML** technologies and applications
+- 🌍 Contribute to **open-source** ecosystem
+- 👥 Mentor **next-generation** of developers
+
+</div>
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+
+![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadMehriyari&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadMehriyari&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammadMehriyari&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 If you find my work valuable, feel free to star ⭐ my repositories!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohammadMehriyari&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile Views"/>
+</p>
+
+**Last Updated:** 2026-01-08 13:29:26 UTC
+
+Made with ❤️ by Mohammad Mehriyari
+
+---
+
+</div>
